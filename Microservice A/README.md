@@ -1,4 +1,4 @@
-`# Budget Plotting Microservice
+# Budget Plotting Microservice
 
 This repository implements a Plotting Microservice that generates bar graphs of income and expenses over a specified date range from a CSV file. The service utilizes ZeroMQ for communication between the client and the server.
 
