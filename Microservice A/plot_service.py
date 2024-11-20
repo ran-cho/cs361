@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import csv
 from datetime import datetime
 
-FILENAME = "budget.csv"
+FILENAME = "budget-test.csv"
 
 def generate_bar_graph(start_date, end_date):
     """Generate a bar graph showing total income and expenses within a date range."""
